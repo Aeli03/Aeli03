@@ -1,1 +1,2 @@
-Hello, Aeli here. Learning to become a software developer. <3
+Hello, Aeli here. <br>
+Learning to become a software developer. <3
